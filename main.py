@@ -59,7 +59,7 @@ class Pedido(BaseModel):
 # Se utiliza para identificar pedidos que superan
 # el punto de corte de priorizacion.
 
-UMBRAL_RIESGO = 0.262102
+UMBRAL_RIESGO = 0.260125
 
 
 # =========================================================
