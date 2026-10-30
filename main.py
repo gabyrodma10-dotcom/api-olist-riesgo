@@ -54,7 +54,7 @@ class Pedido(BaseModel):
 # el modelo final sobre sus datos de entrenamiento.
 #
 # Valor calculado en Google Colab:
-# 0.262102 = 26.21 %
+# 0.260125 = 26.01 %
 #
 # Se utiliza para identificar pedidos que superan
 # el punto de corte de priorizacion.
